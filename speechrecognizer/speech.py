@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 import speech_recognition as sr
 import tkinter as tk
 
